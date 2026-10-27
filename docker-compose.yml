@@ -1,0 +1,19 @@
+
+services:
+  frontend:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+
+  backend:
+    build: ./backend
+    restart: unless-stopped
+    env_file:
+      - ./backend/.env
+    environment:
+      MONGODB_URL: mongodb://host.docker.internal:27017
+    ports:
+      - "8000:8000"

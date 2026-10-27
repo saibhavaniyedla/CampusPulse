@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Flickering tube light in Room 204",
+    "description": "The tube light near the whiteboard flickers constantly and makes it hard to read notes during evening classes.",
+    "category": "Electrical",
+    "location": "Academic Block A, Room 204",
+    "image": null,
+    "status": "In Progress",
+    "date": "2026-08-10",
+    "studentName": "Ananya Rao",
+    "studentEmail": "student@campuspulse.com"
+  },
+  {
+    "id": 2,
+    "title": "Leaking tap outside Boys Hostel Block 2",
+    "description": "The wash-area tap near the entrance has been leaking continuously for a week, wasting water and flooding the floor.",
+    "category": "Plumbing",
+    "location": "Boys Hostel, Block 2",
+    "image": null,
+    "status": "Unresolved",
+    "date": "2026-08-14",
+    "studentName": "Ravi Teja",
+    "studentEmail": "ravi.teja@campuspulse.com"
+  },
+  {
+    "id": 3,
+    "title": "Broken chair in Library reading hall",
+    "description": "One of the wooden chairs in the silent reading hall has a cracked leg and wobbles dangerously.",
+    "category": "Furniture",
+    "location": "Central Library, 2nd Floor",
+    "image": null,
+    "status": "Resolved",
+    "date": "2026-07-29",
+    "studentName": "Meera Iyer",
+    "studentEmail": "meera.iyer@campuspulse.com"
+  },
+  {
+    "id": 4,
+    "title": "Overflowing dustbin near Canteen",
+    "description": "The dustbin outside the canteen entrance overflows by lunchtime every day and hasn't been cleared in days.",
+    "category": "Cleanliness",
+    "location": "Main Canteen Entrance",
+    "image": null,
+    "status": "Unresolved",
+    "date": "2026-08-16",
+    "studentName": "Ananya Rao",
+    "studentEmail": "student@campuspulse.com"
+  },
+  {
+    "id": 5,
+    "title": "Damaged door hinge in Lab 3",
+    "description": "The Computer Lab 3 door doesn't close properly because the top hinge has come loose, letting the AC out.",
+    "category": "Infrastructure",
+    "location": "CS Block, Lab 3",
+    "image": null,
+    "status": "In Progress",
+    "date": "2026-08-05",
+    "studentName": "Farhan Sheikh",
+    "studentEmail": "farhan.sheikh@campuspulse.com"
+  },
+  {
+    "id": 6,
+    "title": "Charging point not working in Auditorium",
+    "description": "None of the USB charging points along the auditorium side wall are functioning, needed for event days.",
+    "category": "Electrical",
+    "location": "Main Auditorium",
+    "image": null,
+    "status": "Unresolved",
+    "date": "2026-08-18",
+    "studentName": "Meera Iyer",
+    "studentEmail": "meera.iyer@campuspulse.com"
+  },
+  {
+    "id": 7,
+    "title": "Torn notice board glass in Block C",
+    "description": "The glass cover of the department notice board is cracked and a piece is missing, notices keep falling out.",
+    "category": "Infrastructure",
+    "location": "Block C Corridor, Ground Floor",
+    "image": null,
+    "status": "Resolved",
+    "date": "2026-07-20",
+    "studentName": "Ravi Teja",
+    "studentEmail": "ravi.teja@campuspulse.com"
+  },
+  {
+    "id": 8,
+    "title": "Squeaky ceiling fan in Room 118",
+    "description": "The ceiling fan makes a loud squeaking noise on every rotation, quite distracting during lectures.",
+    "category": "Electrical",
+    "location": "Academic Block B, Room 118",
+    "image": null,
+    "status": "Unresolved",
+    "date": "2026-08-19",
+    "studentName": "Farhan Sheikh",
+    "studentEmail": "farhan.sheikh@campuspulse.com"
+  }
+]
